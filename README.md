@@ -1,1 +1,1 @@
-# zero_day
+Zero day, It's always zero day.
